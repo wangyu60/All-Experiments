@@ -1,0 +1,6 @@
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\manipulating_LINQ_to_xml\bin\Debug\manipulating_LINQ_to_xml.exe.config
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\manipulating_LINQ_to_xml\bin\Debug\manipulating_LINQ_to_xml.exe
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\manipulating_LINQ_to_xml\bin\Debug\manipulating_LINQ_to_xml.pdb
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\manipulating_LINQ_to_xml\obj\Debug\manipulating_LINQ_to_xml.csprojResolveAssemblyReference.cache
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\manipulating_LINQ_to_xml\obj\Debug\manipulating_LINQ_to_xml.exe
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\manipulating_LINQ_to_xml\obj\Debug\manipulating_LINQ_to_xml.pdb

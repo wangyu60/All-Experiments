@@ -1,1 +1,6 @@
 C:\Users\wangy\Source\Repos\All-Experiments\experiment\TestAdhocThingsHere\bin\Debug\TestAdhocThingsHere.exe.config
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\TestAdhocThingsHere\bin\Debug\TestAdhocThingsHere.exe
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\TestAdhocThingsHere\bin\Debug\TestAdhocThingsHere.pdb
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\TestAdhocThingsHere\obj\Debug\TestAdhocThingsHere.csprojResolveAssemblyReference.cache
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\TestAdhocThingsHere\obj\Debug\TestAdhocThingsHere.exe
+C:\Users\wangy\Source\Repos\All-Experiments\experiment\TestAdhocThingsHere\obj\Debug\TestAdhocThingsHere.pdb
