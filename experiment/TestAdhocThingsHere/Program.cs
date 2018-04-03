@@ -13,7 +13,14 @@ namespace TestAdhocThingsHere
         static void Main(string[] args)
         {
             Console.WriteLine("Test");
+
+            var test = string.Format(@"""something {0}""", "strange");
+
+            Console.WriteLine(test);
+
             var input = Console.ReadLine();
+
+
 
         }
        

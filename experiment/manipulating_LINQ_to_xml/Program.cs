@@ -13,8 +13,8 @@ namespace manipulating_LINQ_to_xml
     {
         static void Main(string[] args)
         {
-            //createXDoc();
-            saveXDoc();
+            createXDoc();
+            //saveXDoc();
 
             Console.ReadLine();
         }
@@ -41,7 +41,6 @@ namespace manipulating_LINQ_to_xml
             // Save to Disk
             xDoc.Save("Something.xml");
             Console.WriteLine("Saved");
-            Console.ReadLine();
         }
 
         private static void createXDoc()

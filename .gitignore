@@ -3,3 +3,13 @@
 ################################################################################
 
 /experiment/TestAdhocThingsHere/TestAdhocThingsHere.csproj.user
+/experiment/experiment/bin/Debug
+/experiment/experiment/obj/Debug
+/experiment/manipulating_LINQ_to_xml/bin/Debug
+/experiment/manipulating_LINQ_to_xml/obj/Debug
+/experiment/TestAdhocThingsHere/bin/Debug
+/experiment/TestAdhocThingsHere/obj/Debug
+/experiment/XDocument_test/bin/Debug
+/experiment/XDocument_test/obj/Debug
+/experiment/TextTemplate_try/bin/Debug
+/experiment/TextTemplate_try/obj/Debug
