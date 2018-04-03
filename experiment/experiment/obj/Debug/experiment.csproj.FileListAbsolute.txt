@@ -1,6 +1,0 @@
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\experiment\bin\Debug\experiment.exe.config
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\experiment\bin\Debug\experiment.exe
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\experiment\bin\Debug\experiment.pdb
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\experiment\obj\Debug\experiment.csprojResolveAssemblyReference.cache
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\experiment\obj\Debug\experiment.exe
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\experiment\obj\Debug\experiment.pdb

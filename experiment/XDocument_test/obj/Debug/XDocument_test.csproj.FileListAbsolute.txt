@@ -1,6 +1,0 @@
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\XDocument_test\bin\Debug\XDocument_test.exe.config
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\XDocument_test\bin\Debug\XDocument_test.exe
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\XDocument_test\bin\Debug\XDocument_test.pdb
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\XDocument_test\obj\Debug\XDocument_test.csprojResolveAssemblyReference.cache
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\XDocument_test\obj\Debug\XDocument_test.exe
-C:\Users\wangy\Source\Repos\All-Experiments\experiment\XDocument_test\obj\Debug\XDocument_test.pdb
