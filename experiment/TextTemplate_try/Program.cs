@@ -23,7 +23,7 @@ namespace TextTemplate_try
 
         public void Do()
         {
-            foreach (var methodInfo in typeof(ASM.AS.FeederManager.Server.ServiceContracts.IClientBusiness).GetMethods())
+            foreach (var methodInfo in typeof(/*IClientBusiness*/).GetMethods())
             {
                 //var returnType = GetMethodReturnType(methodInfo);
                 var paramStr = GetLogParamString(methodInfo);
